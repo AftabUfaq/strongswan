@@ -1,2 +1,4 @@
 network-manager-strongswan_*
 strongswan-applet_*
+*.apk
+*.dm
